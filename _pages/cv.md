@@ -11,30 +11,33 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Nutrition, Instituto Politecnico Nacional, Mexico, 2009 - 2014
+* M.Sc. in Sustainable Development in Agriculture, University of Copenhagen, 2014 - 2016
+* M.Sc. in Food Business and Development, University College Cork, 2014 - 2016
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2013 - 2014: Intern
+  * Department of Gastroentology, Child Hospital, Mexico City
+  * Paediatric Nutrition
+  
+* Summer 2015: Research Intern
+  * Bioversity International, Rome
+  * Developemtn of B4FN e-learning course
+  
+* Spring 2017: Nutrition consultancy (voluntary)
+  * Qachuu Aloom, Guatemala
+  * Nutrition Programme
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* March 2019 - present: Research Assistant
+  * IIASA, Vienna
+  * ScaleWAYS project, East Africa
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python for data science.
+* Transdisciplinarity and Participatory Action Research.
+* QGIS
 
 Publications
 ======
@@ -42,18 +45,3 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
