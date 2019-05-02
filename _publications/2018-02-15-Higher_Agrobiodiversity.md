@@ -13,4 +13,4 @@ citation:  'Luna-González, D. V, & Sørensen, M. (2018). &quot; Higher agrobiod
 
 [Download paper here](http://Diana-Luna.github.io/files/paper1.pdf)
 
-Recommended citation: Luna-González, D. V, & Sørensen, M. (2018). &quot; Higher agrobiodiversity is associated with improved dietary diversity, but not child anthropometric status, of Mayan Achí people of Guatemala. &quot; <i>Public Health Nutrition</i>. (110), 1-14.
+**Recommended citation:** Luna-González, D. V, & Sørensen, M. (2018). &quot; Higher agrobiodiversity is associated with improved dietary diversity, but not child anthropometric status, of Mayan Achí people of Guatemala. &quot; <i>Public Health Nutrition</i>. (110), 1-14.
