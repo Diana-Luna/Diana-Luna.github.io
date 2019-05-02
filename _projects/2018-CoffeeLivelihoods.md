@@ -9,7 +9,7 @@ This project seeks to generate scientific evidence and build capacity for strate
 
 **2017 - present**
 
-Institutions:
+Partners:
 ===============
 * CESMACH, Chiapas, Mexico
 * ECOSUR, Chiapas, Mexico
