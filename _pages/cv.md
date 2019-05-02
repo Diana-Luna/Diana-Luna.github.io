@@ -9,9 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-
-
-
+_______________________________________________________________________________________
 Education
 ======
 * B.Sc. in Nutrition, Instituto Politecnico Nacional, Mexico, 2009 - 2014
