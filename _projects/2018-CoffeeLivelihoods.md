@@ -7,13 +7,14 @@ permalink: /projects/CoffeeLivelihoods
 
 This project seeks to generate scientific evidence and build capacity for strategic decisions around diversification activities in smallholder coffee farms and cooperatives in Mesoamerica.
 
-Institution and Date:
+**2017 - present**
+
+Institutions:
 ===============
 * CESMACH, Chiapas, Mexico
 * ECOSUR, Chiapas, Mexico
 * University of Vermont, USA
 * Santa Clara University, California, USA
-* 2017 - present
 
 Study Area:
 ====================
