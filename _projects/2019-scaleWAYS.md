@@ -5,12 +5,12 @@ type: "Research"
 permalink: /projects/scaleWAYS
 ---
 
-The [scaleWAYS](http://www.iiasa.ac.at/web/home/research/researchPrograms/water/WFaS_East_Africa.html) project analyzes up scaling options for water and land management practices for the resilient and sustainable intensification of agricultural production and food systems in the extended Lake Victoria Basin.
+The scaleWAYS project analyzes up scaling options for water and land management practices for the resilient and sustainable intensification of agricultural production and food systems in the extended Lake Victoria Basin.
 
-Institution and Date:
+Institution:
 ===============
-IIASA, Laxenburg, Austria
-"2018 - 2020
+* IIASA, Laxenburg, Austria
+* 2019 - present
 
 Study Area:
 ====================
