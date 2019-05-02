@@ -7,10 +7,11 @@ permalink: /projects/scaleWAYS
 
 The scaleWAYS project analyzes up scaling options for water and land management practices for the resilient and sustainable intensification of agricultural production and food systems in the extended Lake Victoria Basin.
 
+**2019 - present**
+
 Institution:
 ===============
 * IIASA, Laxenburg, Austria
-* 2019 - present
 
 Study Area:
 ====================
