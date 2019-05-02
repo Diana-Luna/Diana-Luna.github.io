@@ -25,7 +25,7 @@ Work experience
   
 * Summer 2015: Research Intern
   * Bioversity International, Rome
-  * Developemtn of B4FN e-learning course
+  * Development of B4FN e-learning course
   
 * Spring 2017: Nutrition consultancy (voluntary)
   * Qachuu Aloom, Guatemala
@@ -34,6 +34,12 @@ Work experience
 * March 2019 - present: Research Assistant
   * IIASA, Vienna
   * ScaleWAYS project, East Africa
+  
+Research Projects
+======
+  <ul>{% for post in site.projects %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
   
 Skills
 ======
