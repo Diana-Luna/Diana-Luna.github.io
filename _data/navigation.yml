@@ -1,16 +1,15 @@
 # main links links
 main:
-  - title: "Comunicación de la ciencia //
-  Science communication"
+  - title: "Science communication"
     url: /communication/
 
   - title: "Blog"
     url: /blog/  
     
-  - title: "Proyectos de investigación / Research projects"
+  - title: "Research projects"
     url: /projects/
     
-  - title: "Mi investigación / My Research"
+  - title: "My Research"
     url: /research/
 
   - title: "CV"
