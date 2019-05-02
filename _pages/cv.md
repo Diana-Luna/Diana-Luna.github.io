@@ -10,6 +10,8 @@ redirect_from:
 {% include base_path %}
 
 _______________________________________________________________________________________
+[Download resume here](http://Diana-Luna.github.io/files/cv.pdf)
+
 
 Education
 ======
@@ -24,22 +26,32 @@ Work experience
   * Paediatric Nutrition
   
 * Summer 2015: Research Intern
-  * Bioversity International, Rome
-  * Development of B4FN e-learning course
+  * Bioversity International, CGIAR, Rome
+  * Development of the content of the [B4FN e-learning course](http://www.b4fn.org/e-learning/)
   
 * Spring 2017: Nutrition consultancy (voluntary)
-  * Qachuu Aloom, Guatemala
+  * [Qachuu Aloom](https://www.gardensedge.org/about/qachuu-aloom/), Guatemala
   * Nutrition Programme
 
 * March 2019 - present: Research Assistant
   * IIASA, Vienna
-  * ScaleWAYS project, East Africa
+  * [ScaleWAYS project](https://diana-luna.github.io/projects/scaleWAYS)
   
 Research Projects
 ======
   <ul>{% for post in site.projects %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  
+Recognitions and Funding
+=============
+* 2018: Doctoral Research Award (International Development Research Centre, Canada) (DECLINED)
+* 2018: Research and Internship Assistance Program Scholarship (Inter-American Institute for Cooperation On Agriculture, Canada)
+* 2017 - 2018: Exceptional Doctoral Student Scholarship (University of Waterloo, Canada)
+* 2015: Complementary scholarship for students abroad (Secretariat of Public Education, Mexico)
+* 2014-2016: Scholarship for Students abroad (CONACYT, Mexico)
+* 2011: Academic Excellence Award (Secretariat of Public Education, Mexico)
+* 2009-2013: Top Students Scholarship (National Polytechnic Institute, Mexico)
   
 Skills
 ======
