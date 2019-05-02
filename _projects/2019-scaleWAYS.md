@@ -4,7 +4,7 @@ collection: projects
 type: "Research"
 permalink: /projects/scaleWAYS
 venue: "[WAT, IIASA](http://www.iiasa.ac.at/web/home/research/researchPrograms/water/waterhome.html)"
-date: 2019
+date: 2019-03-01
 location: "Laxenburg, Austria"
 ---
 
