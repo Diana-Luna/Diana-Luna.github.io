@@ -7,9 +7,10 @@ permalink: /projects/pathways
 
 This project aims to understand how agrobiodiversity and food and nutrition security relationship develops in specific agroecological, sociocultural, and policy contexts. 
 
-Institution:
+Institution and Date:
 ===============
-SESYNC, Annalapolis, USA
+* SESYNC, Annalapolis, USA
+* 2018 - present
 
 Study Area:
 ====================
