@@ -1,5 +1,5 @@
 ---
-title: "Hola"
+title: "Comic 0"
 excerpt: "<br/><img src='comic1.jpg'>"
 collection: portfolio
 ---
