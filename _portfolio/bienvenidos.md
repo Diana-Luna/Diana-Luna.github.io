@@ -1,7 +1,9 @@
 ---
 title: "Comic 0"
-excerpt: "<br/><img src='comic1.jpg'>"
 collection: portfolio
+permalink: /portfolio/bienvenidos
 ---
+
+Bienvenidos a mi comic. 
 
 <br/><img src='comic1.jpg' width="100" height="100" alt="Bienvenidos" align = "middle" border="0.1">
