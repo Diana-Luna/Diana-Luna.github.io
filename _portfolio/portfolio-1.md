@@ -1,7 +1,7 @@
 ---
 title: "Hola"
-excerpt: "Intro 1<br/><img src='/images/1500x300.png'>"
+excerpt: "<br/><img src='comic1.png'>"
 collection: portfolio
 ---
 
-Proximamente
+<br/><img src='comic1.png'>
